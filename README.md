@@ -1,1 +1,2 @@
 # CollectionViewPagedLayout
+横向滚动 纵向排列的 collectionView layout
